@@ -2,7 +2,6 @@ package com.example.consumer.controller;
 
 import com.example.common.model.Student;
 import com.example.common.service.IStudentService;
-import org.apache.dubbo.config.annotation.DubboReference;
 import org.apache.dubbo.config.annotation.Reference;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
